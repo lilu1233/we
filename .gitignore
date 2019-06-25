@@ -1,0 +1,84 @@
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.idea/**/*
+*.orig
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+data/**/*
+attachment/**/*
+!attachment/images/global/**/*
+addons/**/*
+.tags
+deployment.properties
+.tags_sorted_by_file
+framework/builtin/core/module.cer
+
+we7/**/*
+vendor/**/*
+=======
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.idea/**/*
+*.orig
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+data/**/*
+attachment/**/*
+!attachment/images/global/**/*
+addons/**/*
+.tags
+deployment.properties
+.tags_sorted_by_file
+framework/builtin/core/module.cer
+
+we7/**/*
+vendor/**/*
+/.env
+/.php_cs.cache
+/composer.lock
